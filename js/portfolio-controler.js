@@ -48,7 +48,7 @@ function onRenderModal(projId) {
                   <button class="btn btn-primary my-5" onClick="window.open('${proj.url}')" >
                 
                   <i class="fa fa-times"></i>
-                  open Project</button>
+                  check it Out</button>
         `
     
     $('.modal-body').html(strHTML);

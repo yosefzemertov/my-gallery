@@ -11,9 +11,20 @@ const gprojs = [
         img:"img/img-proj/mine.jpg",
         publishedAt: Date.now() ,
         labels: ["Matrixes", "keyboard events"]
+    },
+    {
+        id:"pacman",
+        name:"pacman",
+        title: 'jest for fun',
+        desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam, porro!',
+        url: "/myproject/pac-man/",
+        img:"img/img-proj/pac-man.png",
+        publishedAt: Date.now() ,
+        labels: ["Matrixes", "keyboard events"]
     }
 ]
 
 function getGprojs(){
     return gprojs;
 }
+
