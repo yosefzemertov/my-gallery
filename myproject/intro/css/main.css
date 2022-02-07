@@ -1,0 +1,111 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    /* display: none; */
+}
+
+h1 {
+    font-size: 70px;
+    margin-top: 40px;
+}
+
+h1 span {
+    background-color: lightskyblue;
+    color: white;
+    border-radius: 10px .0px;
+}
+
+.span-nice {
+    background-color: rgb(255, 0, 128);
+    color: white;
+}
+
+.name {
+    color: rgb(240, 85, 13);
+    font-family: arial;
+    text-decoration: underline;
+}
+
+img {
+    height: 300px;
+    width: 230px;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    color: lightskyblue;
+}
+
+.asafitay:hover {
+    text-decoration: none;
+}
+
+.gallery {
+    background-color: lightcoral;
+    margin-top: 40px;
+    padding: 30px;
+    margin-bottom: 40px;
+    cursor: pointer;
+    /* display: none; */
+}
+
+.gallery:hover {
+    background-color: lightsalmon;
+    border: 10px dashed orangered;
+}
+
+.me {
+    background-color: orangered;
+    font-size: 160%;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    border-radius: 50%;
+    line-height: 300px;
+    transition: 0.5s;
+      
+}
+
+button {
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 15px;
+}
+.day2 , .a{
+    background-color: brown;
+}
+
+button:hover {
+    color: black;
+    background-color: palegoldenrod;
+}
+
+.look {
+    margin-top:40px;
+  
+}
+
+.social {
+    display: inline;
+    margin-right:20px;
+    padding: 10px;
+    
+}
+
+.bottom {
+    margin-top: 40px;
+    height: 80px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: wheat;
+    border-top: 5px solid rgb(201, 21, 21);
+}
+
